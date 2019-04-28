@@ -1,0 +1,14 @@
+C:\Users\Ekber\source\repos\sellerApp solution\sellerApp\bin\Debug\sellerApp.exe.config
+C:\Users\Ekber\source\repos\sellerApp solution\sellerApp\bin\Debug\sellerApp.exe
+C:\Users\Ekber\source\repos\sellerApp solution\sellerApp\bin\Debug\sellerApp.pdb
+C:\Users\Ekber\source\repos\sellerApp solution\sellerApp\obj\Debug\sellerApp.csprojAssemblyReference.cache
+C:\Users\Ekber\source\repos\sellerApp solution\sellerApp\obj\Debug\sellerApp.csproj.CoreCompileInputs.cache
+C:\Users\Ekber\source\repos\sellerApp solution\sellerApp\obj\Debug\sellerApp.exe
+C:\Users\Ekber\source\repos\sellerApp solution\sellerApp\obj\Debug\sellerApp.pdb
+C:\Users\Ekber\Desktop\C#\sellerApp\obj\Debug\sellerApp.csprojAssemblyReference.cache
+C:\Users\Ekber\Desktop\C#\sellerApp\obj\Debug\sellerApp.csproj.CoreCompileInputs.cache
+C:\Users\Ekber\Desktop\C#\sellerApp\obj\Debug\sellerApp.exe
+C:\Users\Ekber\Desktop\C#\sellerApp\obj\Debug\sellerApp.pdb
+C:\Users\Ekber\Desktop\C#\sellerApp\bin\Debug\sellerApp.exe.config
+C:\Users\Ekber\Desktop\C#\sellerApp\bin\Debug\sellerApp.exe
+C:\Users\Ekber\Desktop\C#\sellerApp\bin\Debug\sellerApp.pdb
